@@ -13,7 +13,7 @@ Hardware Link:https://www.tenda.com.cn/download/detail-2661.html
 
 #### Describe
 
-​	The vulnerability lies in the setting of PPTP service / goform / setpptpservercfg in Tenda AC6 httpd component. If the length of startip and endip parameters is not well limited, it will lead to stack overflow.
+​	In Tenda AC6 firemware is US_AC6V1.0BR_V15.03.05.16_multi_TD01. The vulnerability lies in the setting of PPTP service / goform / setpptpservercfg in Tenda AC6 httpd component. If the length of startip and endip parameters is not well limited, it will lead to stack overflow.
 
 #### Detail
 
