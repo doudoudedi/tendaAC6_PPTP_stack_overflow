@@ -59,7 +59,7 @@ data={
 	"mppeOp":"40"
 }
 headers={
-	"Host":"1192.168.0.1",
+	"Host":"192.168.0.1",
 	"User-Agent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0",
 	"Accept":"*/*",
 	"Accept-Language":"en-US,en;q=0.5",
